@@ -6799,7 +6799,7 @@ def my_bots():
 	bots.append('https://home.fao.org/dana-na/auth/url_default/welcome.cgiurl=')
 	bots.append('https://securelogin.bmwusa.com/login?returnUrl=/url=')
 	bots.append('https://hh.ru/account/login?backurl=/BackURL=')
-	bots.append('http://www.cciasb.ro/index.php?id=statut&amp;type=cssA=0BackURL=')')
+	bots.append('http://www.cciasb.ro/index.php?id=statut&amp;type=cssA=0BackURL=')
 	bots.append('https://epos.myesr.org/esr/viewing/index.php?module=viewing_poster&amp;task=imagegallery&amp;pi=123636&amp;mediafile_id=555033&amp;backURL=index.php%3Fmodule%3Dviewing_poster%26task%3Dviewsection%26pi%3D123636%26ti%3D412339%26si%3D1419BackURL=')
 	bots.append('https://www.backto60.com/single-post/2020/01/29/Update-from-Backto60-2020backTo=')
 	bots.append('https://www.miralinks.ru/?backTo=')
